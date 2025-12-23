@@ -5,6 +5,7 @@
 
 ## 🧐 What is this?
 The **Trixle Project** is a computational experiment in discrete geometry. 
+![Trixle Simulation Graph](graph.png)
 
 It simulates a universe composed of a dense packing of regular tetrahedra ("Trixles"). Because regular tetrahedra cannot tile 3D space perfectly (leaving a recurring **7.36° angular deficit**), a particle moving through this lattice cannot travel in a straight line. It is forced to "jitter" or weave through the geometric gaps.
 
